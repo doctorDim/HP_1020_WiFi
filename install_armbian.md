@@ -6,6 +6,7 @@
 ssh root@IP
 ```
 password default:1234
+
 3.	Add new user and reboot:
 ```sh
 reboot
