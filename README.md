@@ -5,4 +5,6 @@
 3.	Printer connection:
     + Linux
     + Windows
-4.	Hide Orange in the printer
+    + Android
+4.	Power off printer
+5.	Hide Orange in the printer
