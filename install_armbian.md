@@ -13,7 +13,7 @@ password default:1234
 reboot
 ```
 
-4.	Сonnect via ssh new user and Armbian initial setup:
+4.	Сonnect via ssh new user and Armbian configuring:
 ```sh
 sudo apt-get update
 sudo apt-get upgrade
