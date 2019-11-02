@@ -67,8 +67,8 @@ sudo make cups
 ```sh
 http://IP:631
 ```
-
-
+![main](img/2.png "2")
+![main](img/3.png "3")
 
 
 

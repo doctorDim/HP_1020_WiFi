@@ -14,6 +14,7 @@ reboot
 ```
 
 4.	Сonnect via ssh new user and Armbian configuring:
+![main](img/1.png "1")
 ```sh
 sudo apt-get update
 sudo apt-get upgrade
