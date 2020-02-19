@@ -54,12 +54,12 @@ sudo service cups restart
 wget -O foo2zjs.tar.gz http://foo2zjs.rkkda.com/foo2zjs.tar.gz
 tar zxf foo2zjs.tar.gz
 cd foo2zjs
-make
-./getweb 1020     # Get HP LaserJet 1020 firmware file
+sudo make
+sudo ./getweb 1020     # Get HP LaserJet 1020 firmware file
 sudo make install
-(Optional) Configure hotplug (USB; HP LJ 1000/1005/1018/1020):
+Configure hotplug (USB; HP LJ 1000/1005/1018/1020):
 sudo make install-hotplug
-(Optional) If you use CUPS, restart the spooler:
+If you use CUPS, restart the spooler:
 sudo make cups
 ```
 
